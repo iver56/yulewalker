@@ -36,7 +36,7 @@ $ pytest
 
 ## Example
 
-See (Example.ipynb)[Example.ipynb]
+See [Example.ipynb](Example.ipynb)
 
 
 ## CITATION
